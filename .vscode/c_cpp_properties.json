@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "D:/Program Files/mingw64/bin/gcc.exe",
+            "includePath": [
+                "${workspaceFolder}/headers"
+            ],
+            "defines": [],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/headers"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++11"
+        }
+    ],
+    "version": 4
+}
